@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**SonPhamThanh175/SonPhamThanh175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my space! I am Pham Thanh Son, a dedicated Front-End Developer specializing in ReactJs and ReactNative. My passion lies in crafting dynamic, responsive, and high-performance web applications that deliver exceptional user experiences.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const myInfo = {
+  name: 'Pham Thanh Son',
+  jobTitle: 'Front-End Developer',
+  skills: {
+    core: ['HTML', 'CSS', 'JavaScript'],
+    frameworks: ['React.js', 'React Native'],
+    design: ['Ant Design ' , 'Material UI'],
+    os: ['Windows', 'Linux', 'macOS']
+  },
+  careerObjective: {
+    primary: 'Front-End Development with React.js',
+    secondary: 'Nest.js Back-End Development'
+  },
+  socialMedia: {
+    linkedin: 'PhamSon',
+  }
+}
