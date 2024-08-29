@@ -4,13 +4,14 @@ Welcome to my space! I am Pham Thanh Son, a dedicated Front-End Developer specia
 
 ## About Me
 
+```json
 const myInfo = {
   name: 'Pham Thanh Son',
   jobTitle: 'Front-End Developer',
   skills: {
     core: ['HTML', 'CSS', 'JavaScript'],
     frameworks: ['React.js', 'React Native'],
-    design: ['Ant Design ' , 'Material UI'],
+    design: ['Ant Design', 'Material UI'],
     os: ['Windows', 'Linux', 'macOS']
   },
   careerObjective: {
